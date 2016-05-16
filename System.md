@@ -47,8 +47,28 @@ and EDU 10.
 #### Gravity
 
 | 1d100 | Gravity |
-| 01-XX | 0 G     |
-
+|-------|---------|
+| 01-05 |    0 G  |
+| 06-10 |  0.1 G  |
+| 11-15 |  0.2 G  |
+| 16-20 |  0.3 G  |
+| 21-25 |  0.4 G  |
+| 26-30 |  0.5 G  |
+| 31-35 |  0.6 G  |
+| 36-40 |  0.7 G  |
+| 41-45 |  0.8 G  |
+| 46-50 |  0.9 G  |
+| 51-55 |  1.0 G  |
+| 56-60 |  1.1 G  |
+| 66-70 |  1.2 G  |
+| 71-75 |  1.3 G  |
+| 76-80 |  1.4 G  |
+| 81-85 |  1.5 G  |
+| 86-90 |  1.6 G  |
+| 91-95 |  1.7 G  |
+| 96-00 |  1.8 G  |
+| 96-00 |  1.9 G  |
+| 96-00 |  2.0 G  |
 
 * Roll 2d6 once for each column on the table below. Modify the results using the
   modifiers listed directly after the table.
