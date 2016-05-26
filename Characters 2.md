@@ -8,7 +8,8 @@
   for and taken into account.
 
 * Cultural Modifiers is used but is based on planetary characteristics rather
-  than culture. Generate a home planet for your character using either the basic way presented in TNE:17-18 or, if you prefer, the more advanced way in
+  than culture. Generate a home planet for your character using either the basic
+  way presented in TNE:17-18 or, if you prefer, the more advanced way in
   TNE:179-195. Then modify your characteristics as follows:
 
 *Gravity*  
@@ -19,7 +20,8 @@
 
 If the gravity is 0G it can be said that the home world in fact was a space
 station or something similar with some form of artificial gravitation present.
-If so, decide on a reasonable gravity level and use that instead.
+If so, decide on a reasonable gravity level and use that as basis for the
+gravity modification instead.
 
 *Atmosphere*  
 * Vacuum: DEX +1
@@ -48,18 +50,21 @@ experience and so be a little older. 25 to 30 years old is about right.
 ### Damage Bonus
 
 Futur Noir uses a different system for describing damages based on an
-abstraction called Damage Class (DC). Each point of DC corresponds to &frac12;d6 so that DC 1 = &frac12;d6, DC 2 = 1d6, DC 3 = 1&frac12;d6, etc. Each character
-then has a pair of modifiers, one based on size and strength that is used to
-modify the damage in hand-to-hand combat, and one based on intelligence and
-agility that is used for ranged combat. Hmm, is this really a good idea?
+abstraction called Damage Class (DC). Each point of DC corresponds to &frac12;d6
+so that DC 1 = &frac12;d6, DC 2 = 1d6, DC 3 = 1&frac12;d6, etc.
 
-| STR+SIZ  | Damage Modifier | INT+DEX  |
-| :------: | :-------------: | :------: |
-|  2 to 12 |       -2        |  2 to 12 |
-| 13 to 16 |       -1        | 13 to 16 |
-| 17 to 24 |      +-0        | 17 to 24 |
-| 25 to 32 |       +1        | 25 to 32 |
-| 33 to 40 |       +2        | 33 to 40 |
+The bonus as described here then provides a modification to damage done in
+hand-to-hand combat. For instance, a person being large and/or strong enough to
+get a +1 DC modification would, using a DC 3 weapon, actually use DC 4 in
+combat.
+
+| STR+SIZ  | Damage Modifier |
+| :------: | :-------------: |
+|  2 to 12 |       -2        |
+| 13 to 16 |       -1        |
+| 17 to 24 |      +-0        |
+| 25 to 32 |       +1        |
+| 33 to 40 |       +2        |
 
 ### Hit Points per Location
 
@@ -73,12 +78,10 @@ Is used.
 
 Is used.
 
-### Sanity
-
-Is used. Or?
-
 ### Cool
 
 This is a new characteristic intended to simulate the ability of combat-
 experienced individuals to remain calm while under attack. Keeping a cool head
 during combat aids in initiative.
+
+I think this should be a skill instead.
