@@ -99,17 +99,17 @@ In BRP:
 Add Formidable (Skill x 1/4)? And Very Easy (Skill x 4)? Nej.
 
 Ex.
-Knowledge, Admin:
-Category: Mental
+Knowledge, Admin:  
+Category: Mental  
 Human base %: 05% (TL3-; 01%)
 
-Sample tasks:
-To avoid close inspection of papers:
-Easy, Knowledge (Admin), 1 min (fateful)
+Sample tasks:  
+To avoid close inspection of papers:  
+Easy, Knowledge (Admin), 1 min (fateful)  
 GM: This task assumes a world with No Law. Increase difficulty one level for each
 increase in law code: Low Law is Average; Mod Law is Difficult; Hi Law or higher is Impossible.
 
-To avoid police harassment:
-Easy, Knowledge (Admin), Knowledge (Legal), 5 min (fateful)
+To avoid police harassment:  
+Easy, Knowledge (Admin), Knowledge (Legal), 5 min (fateful)  
 GM: Increase the difficulty for this task one level for each increase in law code above
 No Law.
