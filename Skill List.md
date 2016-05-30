@@ -81,10 +81,10 @@ Track					|Perception		|10%
 
 In TNE:
 
-Simple: Success is highly likely. Roll 3+ on 2D to succeed.
-Routine: Success is likely. Roll 7+ on 2D to succeed.
-Difficult: Success is unlikely. Roll 11 + on 2D to succeed.
-Formidable: Success is rare. Roll 15 + on 2D to succeed; success is only possible with DMs.
+* Simple: Success is highly likely. Roll 3+ on 2D to succeed.
+* Routine: Success is likely. Roll 7+ on 2D to succeed.
+* Difficult: Success is unlikely. Roll 11 + on 2D to succeed.
+* Formidable: Success is rare. Roll 15 + on 2D to succeed; success is only possible with DMs.
 
 A DM of +1 is roughly equal to +10% in BRP
 
@@ -105,11 +105,11 @@ Human base %: 05% (TL3-; 01%)
 
 Sample tasks:
 To avoid close inspection of papers:
-Easy, Knowledge, Admin, 1 min (fateful)
+Easy, Knowledge (Admin), 1 min (fateful)
 GM: This task assumes a world with No Law. Increase difficulty one level for each
 increase in law code: Low Law is Average; Mod Law is Difficult; Hi Law or higher is Impossible.
 
 To avoid police harassment:
-Easy, Admin, Legal, 5 min (fateful)
+Easy, Knowledge (Admin), Knowledge (Legal), 5 min (fateful)
 GM: Increase the difficulty for this task one level for each increase in law code above
 No Law.
