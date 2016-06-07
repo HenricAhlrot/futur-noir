@@ -197,3 +197,37 @@ making the grand total 84 + 84 + 60 = 228 points.
 Equals INT x 10.
 
 # Professions
+
+* Artist
+* Assassin
+* Athlete
+* Clerk
+* Computer Tech
+* Craftsman
+* Criminal
+* Detective
+* Doctor
+* Engineer
+* Entertainer
+* Explorer
+* Farmer
+* Gambler
+* Journalist
+* Laborer
+* Lawman
+* Lawyer
+* Mechanic
+* Merchant
+* Pilot
+* Politician
+* Priest
+* Sailor
+* Scholar
+* Scientist
+* Servant
+* Soldier
+* Spy
+* Student
+* Teacher
+* Technician
+* Writer
